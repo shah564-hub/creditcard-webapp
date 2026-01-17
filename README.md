@@ -66,11 +66,11 @@ https://creditcard-webapp-cgqqy7ltoytsm2dykbzyis.streamlit.app/
 ---
 
 ## 📂 Project Structure
-creditcard-webapp/
+creditpay/
 │── app.py
 │── db.py
 │── utils.py
 │── requirements.txt
-│── credit_card_app.db
 │── README.md
+│── .gitignore
 
